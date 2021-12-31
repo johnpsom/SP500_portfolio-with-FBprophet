@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 31 11:41:04 2021
 
-@author: PSOMIADIS
+@author: ioannis.psomiadis
 """
 
 
