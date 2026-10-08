@@ -1,0 +1,8 @@
+pandas
+numpy
+PyPortfolioOpt
+prophet
+yfinance
+scikit-learn
+lxml
+pytest

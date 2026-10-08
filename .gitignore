@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+prices.csv
+.pytest_cache/
